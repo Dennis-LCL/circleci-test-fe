@@ -1,7 +1,7 @@
 import React from "react";
 
 function Hello() {
-  return <h1>Hello Marco!</h1>;
+  return <h1>Hello Marco Polo!</h1>;
 }
 
 export default Hello;
